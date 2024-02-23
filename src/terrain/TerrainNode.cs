@@ -1,4 +1,0 @@
-namespace QuadTree.Source.Terrain {
-
-    
-}

@@ -1,1 +1,0 @@
-# QuadTree Terrain Generation with Levels of Detail (LOD)
